@@ -7,10 +7,11 @@
 </head>
 <style>
     body{
-        font-family: NotoSansArabic;
+        font-family: 'NotoSansArabic';
+        direction: ltr;
     }
     div{
-        margin-left: 40%;
+       
         font-size: 30px;
     }
     a{
