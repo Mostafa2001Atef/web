@@ -1,23 +1,5 @@
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Main Page</title>
-</head>
-<style>
-    body{
-        font-family: 'NotoSansArabic';
-        direction: ltr;
-    }
-    div{
-       
-        font-size: 30px;
-    }
-    a{
-        margin-left: 60px;
-    }
-</style>
+
 <body>
     <div>
        الاسم:عبد الرحمن فهيد الحربى
@@ -32,4 +14,4 @@
 
     
 </body>
-</html>
+
